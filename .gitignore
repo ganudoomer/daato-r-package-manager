@@ -1,0 +1,14 @@
+*.sw?
+node_modules/**
+dist/**
+.env
+.env.test
+uploads/**
+dump.rdb
+.idea/**
+drop-tables.sql
+*.DS_Store
+
+.vscode
+
+/temp
